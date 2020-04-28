@@ -3,7 +3,8 @@
 Course Project for Machine Learning - MSc. in Analytics at the University of Chicago
 
 
-References
+*References*
+
 Justifying recommendations using distantly-labeled reviews and fined-grained aspects
 
 **Jianmo Ni, Jiacheng Li, Julian McAuley**
